@@ -2,11 +2,15 @@
 
 A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
 
+---
+
 ## 💡 What I Do
 - ⚙️ Build on **EVM**, **Solana**, and emerging chains
 - 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
 - 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
+
+---
 
 ## 📦 Open Source & NPM Packages
 
@@ -14,6 +18,8 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
 
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
+
+---
 
 ## ⚙️ Languages & Tools
 
@@ -30,10 +36,14 @@ A lightweight, developer-friendly abstraction layer for structured data handling
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+---
+
 ## 📫 How to Reach Me
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)
+
+---
 
 ## 🧩 Featured Projects
 - 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans).
