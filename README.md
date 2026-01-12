@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
 
-A passionate **Web3 Developer & Blockchain Enthusiast** 🚀  
+A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
 
 ---
 
 ## 💡 What I Do
-- ⚙️ Build on **EVM**, and **Solana**
-- 🧾 Craft scalable **payment platforms** and **DeFi protocols**
-- 📦 Build tools using **Firebase**, **Next.js**, **lit-html**, and **Solidity**
-- 🧠 Contributor and member of [SuperTeamNG](https://x.com/SuperteamNG)
+- ⚙️ Build on **EVM**, **Solana**, and emerging chains
+- 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
+- 📦 Build developer tools with **Next.js**, **Vite**, **lit-html**, **Firebase**, and **Solidity**
+- 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
 
+---
+
+## 📦 Open Source & NPM Packages
+
+### 🔹 **Dbrix**
+A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
+
+- 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
+- 🎯 Focus: simplicity, modularity, and speed
+- ⚡ Works seamlessly with Vite, Node.js, and frontend apps
 ---
 
 ## 📫 How to Reach Me
