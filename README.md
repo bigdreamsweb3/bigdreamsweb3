@@ -7,8 +7,6 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 ## 💡 What I Do
 - ⚙️ Build on **EVM**, and **Solana**
 - 🧾 Craft scalable **payment platforms** and **DeFi protocols**
-- 🥕 Lead dev behind [**CarrotDEX**](https://carrotdex.xyz) — a DEX aggregator on MegaETH
-- 🛠️ Backend dev for [**Framp.xyz**](https://framp.xyz) — fiat↔crypto ramp for Africa
 - 📦 Build tools using **Firebase**, **Next.js**, **lit-html**, and **Solidity**
 - 🧠 Contributor and member of [SuperTeamNG](https://x.com/SuperteamNG)
 
