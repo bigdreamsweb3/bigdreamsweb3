@@ -10,7 +10,6 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 **Option 1 (Concise):**
 - 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
----
 
 ## 📦 Open Source & NPM Packages
 
@@ -18,7 +17,6 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
 
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
----
 
 ## ⚙️ Languages & Tools
 
@@ -40,9 +38,6 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)  
----
-
-
 ---
 
 ## 🧩 Featured Projects
