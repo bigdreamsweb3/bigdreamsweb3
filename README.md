@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
+# Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
 
 A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
 
 
-## 💡 What I Do
+## What I Do
 - ⚙️ Build on **EVM**, **Solana**, and emerging chains
 - 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
 - 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
 
 
-## ⚙️ Languages & Tools
+## Languages & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
@@ -26,7 +26,7 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 </div>
 
 
-## 📦 Open Source & NPM Packages
+## Open Source & NPM Packages
 
 ### 🧱 **@Dbrix/core**
 A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
@@ -34,12 +34,12 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
 
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)
 
 
-## 🧩 Featured Projects
+## Featured Projects
 - 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans).
 - 🌉 [**Framp.xyz**](https://framp.xyz): Fiat ↔ Crypto ramp platform for the African market.
