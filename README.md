@@ -10,16 +10,6 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 - 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
 
----
-
-## 📦 Open Source & NPM Packages
-
-### 🧱 **@Dbrix/core**
-A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
-
-- 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
-
----
 
 ## ⚙️ Languages & Tools
 
@@ -36,6 +26,14 @@ A lightweight, developer-friendly abstraction layer for structured data handling
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
+
+## 📦 Open Source & NPM Packages
+
+### 🧱 **@Dbrix/core**
+A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
+
+- 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
+  
 ---
 
 ## 📫 How to Reach Me
