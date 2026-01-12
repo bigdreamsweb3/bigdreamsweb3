@@ -8,7 +8,7 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 - ⚙️ Build on **EVM**, **Solana**, and emerging chains
 - 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
 **Option 1 (Concise):**
-> Developing developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
+- 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
 
 ---
