@@ -2,7 +2,6 @@
 
 A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
 
----
 
 ## 💡 What I Do
 - ⚙️ Build on **EVM**, **Solana**, and emerging chains
@@ -40,7 +39,6 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)
 
----
 
 ## 🧩 Featured Projects
 - 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans).
