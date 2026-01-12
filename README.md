@@ -18,8 +18,6 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
 
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
-- 🎯 Focus: simplicity, modularity, and speed
-- ⚡ Works seamlessly with Vite, Node.js, and frontend apps
 ---
 
 ## 📫 How to Reach Me
