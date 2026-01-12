@@ -2,8 +2,6 @@
 
 A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
 
----
-
 ## 💡 What I Do
 - ⚙️ Build on **EVM**, **Solana**, and emerging chains
 - 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
@@ -32,7 +30,6 @@ A lightweight, developer-friendly abstraction layer for structured data handling
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
----
 
 ## 📫 How to Reach Me
 
@@ -41,6 +38,5 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 ---
 
 ## 🧩 Featured Projects
-- 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans)  
-- 🌉 [**Framp.xyz**](https://framp.xyz): Fiat ↔ Crypto ramp platform for the African market
-- 
+- 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans).
+- 🌉 [**Framp.xyz**](https://framp.xyz): Fiat ↔ Crypto ramp platform for the African market.
