@@ -28,10 +28,15 @@ A passionate **Web3 Developer & Blockchain Engineer** focused on building scalab
 
 ## Open Source & NPM Packages
 
-### 🧱 **@Dbrix/core**
+### **@Dbrix/core**
 A lightweight, developer-friendly abstraction layer for structured data handling in modern JavaScript apps.
 
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
+
+- ### **@bigdreamsweb3/wordbin**
+A deterministic, reversible word-to-binary encoder/decoder that compresses short human-readable phrases into tiny, predictable binary payloads.
+
+- 📦 **NPM:** https://www.npmjs.com/package/@bigdreamsweb3/wordbin
 
 
 ## How to Reach Me
