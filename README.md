@@ -33,7 +33,7 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 
 - 📦 **NPM:** https://www.npmjs.com/package/@dbrix/core
 
-- ### **@bigdreamsweb3/wordbin**
+### **@bigdreamsweb3/wordbin**
 A deterministic, reversible word-to-binary encoder/decoder that compresses short human-readable phrases into tiny, predictable binary payloads.
 
 - 📦 **NPM:** https://www.npmjs.com/package/@bigdreamsweb3/wordbin
