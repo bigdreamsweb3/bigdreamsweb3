@@ -43,8 +43,3 @@ A deterministic, reversible word-to-binary encoder/decoder that compresses short
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)
-
-
-## Featured Projects
-- 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans).
-- 🌉 [**Framp.xyz**](https://framp.xyz): Fiat ↔ Crypto ramp platform for the African market.
