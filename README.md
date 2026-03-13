@@ -1,12 +1,15 @@
 # Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
 
-A passionate **Web3 Developer & Blockchain Engineer** focused on building scalable crypto infrastructure, developer tools, and DeFi systems.
+
+Blockchain Engineer building crypto infrastructure, developer tooling, and DeFi systems.
+
+AI-driven development since 2023 — building software by collaborating with AI.
 
 
 ## What I Do
-- ⚙️ Build on **EVM**, **Solana**, and emerging chains
-- 🧾 Design scalable **payment platforms**, **DEXs**, and **DeFi protocols**
-- 📦 Build developer tools using **Node.js**, **Next.js**, **Vite**, **lit-html**, **Solidity**, **Firebase**, and **PostgreSQL**.
+- ⚙️ Build infrastructure and developer tooling for Web3 ecosystems
+- 🧾 Design payment systems, DEX infrastructure, and DeFi applications
+- 📦 Publish open-source NPM packages for cryptography, encoding, and data tooling
 - 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
 
 
@@ -38,6 +41,13 @@ A deterministic, reversible word-to-binary encoder/decoder that compresses short
 
 - 📦 **NPM:** https://www.npmjs.com/package/@bigdreamsweb3/wordbin
 
+## AI-Driven Development
+
+Since 2023 I build software through AI-assisted development workflows.
+
+Instead of traditional coding alone, I design systems, architect solutions, and collaborate with AI models to generate and iterate on code. Complex debugging and system logic are refined through a combination of human reasoning and AI tooling.
+
+This workflow enables faster experimentation, rapid prototyping, and scalable open-source development.
 
 ## How to Reach Me
 
