@@ -38,10 +38,8 @@ A lightweight, developer-friendly abstraction layer for structured data handling
 
 ### **@bigdreamsweb3/wordbin**
 Deterministic reversible word-to-binary encoding that compresses short human phrases into compact binary payloads.
-Useful for blockchain storage, QR payloads, URLs, IoT systems, and other space-constrained environments.
-
-WordBin can also encode keywords or tags into compact URL-safe slugs. For example, blog tags or search keywords can be encoded into a Base58 payload and used directly as a URL parameter. When the link is opened, the payload can be decoded back into the original keywords, enabling lightweight routing and navigation without exposing the raw text.
-
+Useful for blockchain storage, QR payloads, IoT systems, generating URL-safe encoded slugs from keywords or tags and other space-constrained environments.
+ 
 - 📦 **NPM:** https://www.npmjs.com/package/@bigdreamsweb3/wordbin
 
 ## AI-Driven Development
