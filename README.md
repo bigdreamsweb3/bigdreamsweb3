@@ -54,3 +54,10 @@ This workflow enables faster experimentation, rapid prototyping, and scalable op
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
 - 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)
+
+## Learn More About Big Dreams Web3
+
+Big Dreams Web3 is focused on building practical, real-world Web3 systems. TrustLink Pay is a concrete example of this vision in action—secure, user-friendly crypto payments.
+
+- Read the full blog post here: [Big Dreams Web3 Blog](https://dev.to/bigdreamsweb3/big-dreams-web3-building-practical-real-world-web3-in-2026-417a)  
+- Check out the Koncept Conference insights: [Web3 in 2026](https://www.konceptconference.com/knowledge-center/web3-in-2026-hype-reality-and-whats-actually-working)  
