@@ -10,7 +10,7 @@ AI-driven development since 2023 — building software by collaborating with AI.
 - ⚙️ Build infrastructure and developer tooling for Web3 ecosystems
 - 🧾 Design payment systems, DEX infrastructure, and DeFi applications
 - 📦 Publish open-source NPM packages for cryptography, encoding, and data tooling
-- 🧠 Contributor & member of [SuperTeamNG](https://x.com/SuperteamNG)
+- 🧠 Contributor of [SuperTeamNG](https://x.com/SuperteamNG)
 
 
 ## Languages & Tools
