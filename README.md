@@ -3,7 +3,7 @@
 
 Blockchain Engineer building crypto infrastructure, developer tooling, and DeFi systems.
 
-AI-driven development since 2023 — building software by collaborating with AI.
+Spec-driven development Since 2023, I have pioneered a workflow where I act as the System Architect, using AI as a high-fidelity implementation layer. 
 
 
 ## What I Do
