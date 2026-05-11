@@ -1,7 +1,7 @@
 # Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
 
 
-Blockchain Engineer building crypto infrastructure, developer tooling, and DeFi systems.
+Blockchain System Architect building crypto infrastructure, developer tooling, and DeFi systems.
 
 Spec-driven development since 2023, I have pioneered a workflow where I act as the System Architect, using AI as a high-fidelity implementation layer. 
 
