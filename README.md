@@ -44,7 +44,7 @@ Useful for blockchain storage, QR payloads, IoT systems, generating URL-safe enc
 
 ## Spec-Driven Development
 
-My development process focuses on high-context system design. I treat AI models as a pair-programmer for rapid prototyping and edge-case discovery. This workflow prioritizes architectural integrity and deterministic outcomes, allowing for faster experimentation without sacrificing the security and scalability required for modern Web3 and software infrastructure.
+Since 2023, I have pioneered a workflow where I act as the System Architect, using AI as a high-fidelity implementation layer. Instead of manual line-by-line coding, I focus on defining rigorous specifications and data models. This "Spec-to-Ship" methodology ensures that AI-generated logic remains performant and secure, while drastically reducing the time between ideation and production.
 
 ## How to Reach Me
 
