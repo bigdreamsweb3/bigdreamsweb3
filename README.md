@@ -42,13 +42,9 @@ Useful for blockchain storage, QR payloads, IoT systems, generating URL-safe enc
  
 - 📦 **NPM:** https://www.npmjs.com/package/@bigdreamsweb3/wordbin
 
-## AI-Driven Development
+## Spec-Driven Development
 
-Since 2023 I build software through AI-assisted development workflows.
-
-Instead of traditional coding alone, I design systems, architect solutions, and collaborate with AI models to generate and iterate on code. Complex debugging and system logic are refined through a combination of human reasoning and AI tooling.
-
-This workflow enables faster experimentation, rapid prototyping, and scalable open-source development.
+My development process focuses on high-context system design. I treat AI models as a pair-programmer for rapid prototyping and edge-case discovery. This workflow prioritizes architectural integrity and deterministic outcomes, allowing for faster experimentation without sacrificing the security and scalability required for modern Web3 and software infrastructure.
 
 ## How to Reach Me
 
